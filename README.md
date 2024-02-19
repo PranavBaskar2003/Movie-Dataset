@@ -1,2 +1,2 @@
 # Movie-Dataset
-Task 2 for Data Science 
+This repository contains the code and dataset for Task 2 in Data Science 
